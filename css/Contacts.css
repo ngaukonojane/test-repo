@@ -1,0 +1,38 @@
+body{
+  background-color: white;
+  
+}
+.cont2{
+  width: 800px;
+  height: 350px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top:20px;
+
+}
+.map{
+  width: 900px;
+  height: 400px;
+  background-color: #3f321e;
+  margin: 0 auto;
+}
+a:link {
+    color: white;
+    background-color: #581845 ;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    background-color:  #3f321e;
+    text-decoration: none;
+}
+a:hover {
+    color:maroon ;
+    background-color: black;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}

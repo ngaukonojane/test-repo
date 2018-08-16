@@ -1,0 +1,45 @@
+body{
+  background-color: white;
+  
+}
+header{
+   background-color: LightGray ;
+   width: 900px;
+   height: 50px;
+   margin: 0 auto;
+   text-align: center;
+}
+.bread{
+   width: 900px;
+  height: 400px;
+  background-color: LightGray;
+  padding-top: 1px;
+  margin: 0 auto;
+}
+.bread1{
+  background-color: Violet;
+  width: 900px;
+  height: 100px;
+  margin: 0 auto;
+
+}
+a:link {
+    color: white;
+    background-color: #581845 ;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    background-color:  lightgray;
+    text-decoration: none;
+}
+a:hover {
+    color:maroon ;
+    background-color: black;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
